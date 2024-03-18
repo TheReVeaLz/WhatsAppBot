@@ -1,0 +1,26 @@
+{
+    "root": "123456789@s.whatsapp.net",
+    "admin": [
+        "151549218@s.whatsapp.net",
+        "528167490@s.whatsapp.net"
+    ],
+    "sendList": [
+        {
+            "name": "",
+            "id": "123456@g.us"
+        },
+        {
+            "name": "",
+            "id": "512345@g.us"
+        }
+    ],
+    "domains": [
+        {
+            "Domain": "reddit.com"
+        },
+        {
+            "Domain": "google.com"
+        }
+    ],
+    "interval": 5
+}
